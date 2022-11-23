@@ -22,3 +22,19 @@
 - Altering the batch size
 - Altering the number of epochs
 - Using the same model on another dataset
+
+### **Lab 4**
+
+- Implementing backpropagation algorithm from scratch
+
+### **Lab 5**
+
+- Learnt about the basic steps of CNN
+- Learnt about image processing and classification
+
+### **Lab 6**
+
+- Learnt about NLP
+- Data Preprocessing steps of NLP
+- Learnt about text classification
+- Performed classification through LSTM and GRU
